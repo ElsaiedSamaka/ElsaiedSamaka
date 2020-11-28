@@ -16,14 +16,14 @@ Skills: FLUTTER/MONGO DB/EXPRESS JS / NODE JS/REACT JS
 
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ElsaiedSamaka&show_icons=true)  
 
-![Profile views](https://gpvc.arturio.dev/ElsaiedSamaka) 
 
 [![Samaka's github stats](https://github-readme-stats.vercel.app/api?username=ElsaiedSamaka)](https://github.com/ElsaiedSamaka/github-readme-stats&count_private=true&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElsaiedSamaka)](https://github.com/ElsaiedSamaka/github-readme-stats)
 
-[![Samaka's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ElsaiedSamaka)](https://github.com/ElsaiedSamaka/github-readme-stats)
+
+![Profile views](https://gpvc.arturio.dev/ElsaiedSamaka) 
+
 
 
