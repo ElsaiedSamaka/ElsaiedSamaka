@@ -2,7 +2,7 @@
 
 ### Hi there 👋, my name is Saied
 #### I'm a Software Engineer
-I'm a senior graduted CS student who's so passione about programming and hacker life style [], i love Flutter and adore JS and so i call my self as a FULL STACK FLUTTER DEV. still learning but so existed
+I'm a senior graduted CS student who's so passione about programming and hacker life style 😎, i love Flutter and adore JS and so i call my self as a FULL STACK FLUTTER DEV.🧑‍💻 still learning but so existed 😃
 
 Skills: FLUTTER/MONGO DB/EXPRESS JS / NODE JS/REACT JS 
 
@@ -18,12 +18,11 @@ Skills: FLUTTER/MONGO DB/EXPRESS JS / NODE JS/REACT JS
 
 
 
-[![Samaka's github stats](https://github-readme-stats.vercel.app/api?username=ElsaiedSamaka)](https://github.com/ElsaiedSamaka/github-readme-stats&count_private=true&show_icons=true)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElsaiedSamaka)](https://github.com/ElsaiedSamaka/github-readme-stats)
+[![Samaka's github stats](https://github-readme-stats.vercel.app/api?username=ElsaiedSamaka)](https://github.com/ElsaiedSamaka/github-readme-stats&count_private=true&show_icons=true) 
 
 
-![Profile views](https://gpvc.arturio.dev/ElsaiedSamaka) 
+
 
 
 
