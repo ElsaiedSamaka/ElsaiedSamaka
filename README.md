@@ -19,7 +19,7 @@ Skills: FLUTTER/MONGO DB/EXPRESS JS / NODE JS/REACT JS
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElsaiedSamaka)](https://github.com/ElsaiedSamaka/github-readme-stats)
-[![Samaka's github stats](https://github-readme-stats.vercel.app/api?username=ElsaiedSamaka)](https://github.com/ElsaiedSamaka/github-readme-stats&count_private=true&show_icons=true) 
+
 
 
 
