@@ -1,7 +1,7 @@
 
 
 ### Hi there 👋, my name is Saied
-#### I'm a Software Engineer
+#### I'm a Software Engineer, that's the plan :)
 I'm a senior graduted CS student who's so passione about programming and hacker life style 😎, i love Flutter and adore JS and so i call my self as a FULL STACK FLUTTER DEV.🧑‍💻 still learning but so existed 😃
 
 Skills: FLUTTER/MONGO DB/EXPRESS JS / NODE JS/REACT JS 
