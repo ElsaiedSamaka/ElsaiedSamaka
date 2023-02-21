@@ -27,7 +27,7 @@
 
 <hr>
 
-- 🧷 Check [Resume](https://drive.google.com/drive/u/0/my-drive](https://drive.google.com/file/d/1vry_U7igfXdz_Q5tmhYfFm7N8gu9562z/view?usp=share_link) for more info. -->
+- 🧷 Check [Resume]([https://drive.google.com/drive/u/0/my-drive](https://drive.google.com/file/d/1vry_U7igfXdz_Q5tmhYfFm7N8gu9562z/view?usp=share_link]) for more info. -->
  <hr>
 
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
