@@ -1,5 +1,3 @@
-![banner](https://media.giphy.com/media/qBCZvWwABMUfoAB1qL/giphy.gif)
-
 <br>
 <p align="center">
   Hi, I'm Saied Samaka 👋,Full Stack Javascript developer <br>
