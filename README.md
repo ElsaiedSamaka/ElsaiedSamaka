@@ -16,9 +16,9 @@
   <br>
   💬 Ask me anything about from <a href="https://curiouscat.qa/Smka" title="curiouscat">Here</a>
   <br>
-  📫 How to reach me: <a href="mailto: loremiipsum99@gmail.com">loremiipsum99@gmail.com</a>
+  📫 Mail me: <a href="mailto: elsaied.samaka1997@gmail.com">elsaied.samaka1997@gmail.com</a>
   <br>
-  Contact me on Linkedin : [ElsaiedSamaka.linkedin](https://www.linkedin.com/in/elsaied-samaka-513a0518b/)
+  🔗Contact me on Linkedin : [ElsaiedSamaka.linkedin](https://www.linkedin.com/in/elsaied-samaka-513a0518b/)
 </p>
  <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
@@ -35,7 +35,6 @@
   <code><img title="Git" height="25" src="https://github.com/ElsaiedSamaka/ElsaiedSamaka/blob/master/images/git-original.svg"></code>
   <code><img title="PostgreSQL" height="25" src="https://github.com/ElsaiedSamaka/ElsaiedSamaka/blob/master/images/postgresql.svg"></code>
   <code><img title="Visual Studio Code" height="25" src="https://github.com/ElsaiedSamaka/ElsaiedSamaka/blob/master/images/vscode.png"></code>
-  <code><img title="Microsoft Visual Studio" height="25" src="https://github.com/ElsaiedSamaka/ElsaiedSamaka/blob/master/images/visualstudio.png"></code>
   <code><img title="JSON" height="25" src="https://github.com/ElsaiedSamaka/ElsaiedSamaka/blob/master/images/json.svg"></code>
   <code><img title="GitHub" height="25" src="https://github.com/ElsaiedSamaka/ElsaiedSamaka/blob/master/images/github.svg"></code>
   <code><img title="MySQL" height="25" src="https://github.com/ElsaiedSamaka/ElsaiedSamaka/blob/master/images/mysql.svg"></code>
