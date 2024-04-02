@@ -1,18 +1,14 @@
 ![banner](https://media.giphy.com/media/qBCZvWwABMUfoAB1qL/giphy.gif)
 
-
 <br>
 <p align="center">
-  Hi, I'm Saied Samaka 👋, I'm a Software Engineer, that's the plan :)
+  Hi, I'm Saied Samaka 👋,Full Stack Javascript developer <br>
+  who's so passione about programming and turning ideas into solutions🧑‍💻
   <br>
-  I'm a senior graduated CS student who's so passione about programming 😎, i love Flutter and adore JS and so i call my self as a FULL STACK DEV.🧑‍💻 still learning but so existed 😃
   <br>
+  🔬 I'm currently working on Intlaq Co.
   <br>
-  🔬 I'm currently serving on EG. military
-  <br>
-  🎓 I graduated from Mansoura University Computer Science Department
-  <br>
-  🎓 I graduated from Sammnoud High School
+  🎓 I graduated from Mansoura University Computer Science Department with (Good Degree)
   <br>
   💻 I love writing code and learn anythings about it
   <br>
@@ -24,47 +20,28 @@
   <br>
   Contact me on Linkedin : [ElsaiedSamaka.linkedin](https://www.linkedin.com/in/elsaied-samaka-513a0518b/)
 </p>
-
-<hr>
-
-
  <hr>
-
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
 <p align="center">
-  <code><img title="C" height="25" src="https://github.com/ElsaiedSamaka/ElsaiedSamaka/blob/master/images/c.svg"></code>
-  <code><img title="C++" height="25" src="https://github.com/ElsaiedSamaka/ElsaiedSamaka/blob/master/images/cpp.svg"></code>
-  <code><img title="C#" height="25" src="https://github.com/ElsaiedSamaka/ElsaiedSamaka/blob/master/images/cSharp.svg"></code>
-  <code><img title="Python" height="25" src="https://github.com/ElsaiedSamaka/ElsaiedSamaka/blob/master/images/python-original.svg"></code>
-  <code><img title="Django" height="25" src="https://github.com/ElsaiedSamaka/ElsaiedSamaka/blob/master/images/django.png"></code>
   <code><img title="Javascript" height="25" src="https://github.com/ElsaiedSamaka/ElsaiedSamaka/blob/master/images/javascript.svg"></code>
   <code><img title="Problem Solving" height="25" src="https://github.com/ElsaiedSamaka/ElsaiedSamaka/blob/master/images/problemSolving.png"></code>
   <code><img title="HTML5" height="25" src="https://github.com/zElsaiedSamaka/ElsaiedSamaka/blob/master/images/html5.svg"></code>
   <code><img title="CSS" height="25" src="https://github.com/ElsaiedSamaka/ElsaiedSamaka/blob/master/images/css.svg"></code>
   <code><img title="SASS" height="25" src="https://github.com/ElsaiedSamaka/ElsaiedSamaka/blob/master/images/sass.svg"></code>
-  <code><img title="Gulp" height="25" src="https://github.com/ElsaiedSamaka/ElsaiedSamaka/blob/master/images/gulp.svg"></code>
   <code><img title="React" height="25" src="https://github.com/ElsaiedSamaka/ElsaiedSamaka/blob/master/images/react-original.svg"></code>
   <code><img title="Redux" height="25" src="https://github.com/ElsaiedSamaka/ElsaiedSamaka/blob/master/images/redux.svg"></code>
   <code><img title="AngularJS" height="25" src="https://github.com/ElsaiedSamaka/ElsaiedSamaka/blob/master/images/angularjs.png"></code>
   <code><img title="Git" height="25" src="https://github.com/ElsaiedSamaka/ElsaiedSamaka/blob/master/images/git-original.svg"></code>
-  <code><img title=".NetCore" height="25" src="https://github.com/ElsaiedSamaka/ElsaiedSamaka/blob/master/images/dotnetcore.svg"></code>
   <code><img title="PostgreSQL" height="25" src="https://github.com/ElsaiedSamaka/ElsaiedSamaka/blob/master/images/postgresql.svg"></code>
   <code><img title="Visual Studio Code" height="25" src="https://github.com/ElsaiedSamaka/ElsaiedSamaka/blob/master/images/vscode.png"></code>
   <code><img title="Microsoft Visual Studio" height="25" src="https://github.com/ElsaiedSamaka/ElsaiedSamaka/blob/master/images/visualstudio.png"></code>
-  <code><img title="JQuery" height="25" src="https://github.com/ElsaiedSamaka/ElsaiedSamaka/blob/master/images/jquery-original.svg"></code>
-  <code><img title="Java" height="25" src="https://github.com/ElsaiedSamaka/ElsaiedSamaka/blob/master/images/java-original.svg"></code>
   <code><img title="JSON" height="25" src="https://github.com/ElsaiedSamaka/ElsaiedSamaka/blob/master/images/json.svg"></code>
-  <code><img title="Unity" height="25" src="https://github.com/ElsaiedSamaka/ElsaiedSamaka/blob/master/images/unity3d.svg"></code>
-  <code><img title="Android" height="25" src="https://github.com/ElsaiedSamaka/ElsaiedSamaka/blob/master/images/android.svg"></code>
   <code><img title="GitHub" height="25" src="https://github.com/ElsaiedSamaka/ElsaiedSamaka/blob/master/images/github.svg"></code>
   <code><img title="MySQL" height="25" src="https://github.com/ElsaiedSamaka/ElsaiedSamaka/blob/master/images/mysql.svg"></code>
   <code><img title="npm" height="25" src="https://github.com/ElsaiedSamaka/ElsaiedSamaka/blob/master/images/npm.svg"></code>
-  <code><img title="PHP" height="25" src="https://github.com/ElsaiedSamaka/ElsaiedSamaka/blob/master/images/php.svg"></code>
-  <code><img title="Flask" height="25" src="https://github.com/ElsaiedSamaka/ElsaiedSamaka/blob/master/images/flask.png"></code>
 </p>
 <hr>
-
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <p align=center>
@@ -114,7 +91,6 @@
 </h4>
 
 
-<hr>
 
 
 
