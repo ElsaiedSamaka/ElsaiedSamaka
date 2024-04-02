@@ -12,11 +12,12 @@
   <br>
   📚 I’m currently discovering new abilities and skills on my self 
   <br>
-  💬 Ask me anything about from <a href="https://curiouscat.qa/Smka" title="curiouscat">Here</a>
+  💬 Ask me anonymously on <a href="https://curiouscat.qa/Smka" title="curiouscat">Here</a>
   <br>
   📫 Mail me: <a href="mailto: elsaied.samaka1997@gmail.com">elsaied.samaka1997@gmail.com</a>
   <br>
-  🔗Contact me on Linkedin : [ElsaiedSamaka.linkedin](https://www.linkedin.com/in/elsaied-samaka-513a0518b/)
+  🔗 Contact me on Linkedin: [Elsaied Samaka](https://www.linkedin.com/in/elsaied-samaka-513a0518b/)
+
 </p>
  <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
