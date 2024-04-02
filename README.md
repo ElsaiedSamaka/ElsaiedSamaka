@@ -8,7 +8,7 @@
   <br>
   🎓 I graduated from Mansoura University Computer Science Department with (Good Degree)
   <br>
-  💻 I love writing code and learn anythings about it
+  💻 I love writing code and discover new skills
   <br>
   📚 I’m currently discovering new abilities and skills on my self 
   <br>
