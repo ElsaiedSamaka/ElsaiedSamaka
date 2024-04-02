@@ -25,8 +25,6 @@
 <br>
 <p align="center">
   <code><img title="Javascript" height="25" src="https://github.com/ElsaiedSamaka/ElsaiedSamaka/blob/master/images/javascript.svg"></code>
-  <code><img title="Problem Solving" height="25" src="https://github.com/ElsaiedSamaka/ElsaiedSamaka/blob/master/images/problemSolving.png"></code>
-  <code><img title="HTML5" height="25" src="https://github.com/zElsaiedSamaka/ElsaiedSamaka/blob/master/images/html5.svg"></code>
   <code><img title="CSS" height="25" src="https://github.com/ElsaiedSamaka/ElsaiedSamaka/blob/master/images/css.svg"></code>
   <code><img title="SASS" height="25" src="https://github.com/ElsaiedSamaka/ElsaiedSamaka/blob/master/images/sass.svg"></code>
   <code><img title="React" height="25" src="https://github.com/ElsaiedSamaka/ElsaiedSamaka/blob/master/images/react-original.svg"></code>
