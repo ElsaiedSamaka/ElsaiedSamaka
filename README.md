@@ -4,7 +4,7 @@
   who's so passione about programming and turning ideas into solutions🧑‍💻
   <br>
   <br>
-  🔬 I'm currently working on Eden Technologies.
+  🔬 I'm currently working on Asset technology group.
   <br>
   🎓 I graduated from Mansoura University Computer Science Department with (Good Degree)
   <br>
